@@ -16,11 +16,11 @@ public class WordScrambler {
 		return combination;
 	}
 	//PART B
-	// private String[] mixedWords(String[] words){
-	// 	String[] tempArr = new String[words.length];
-	// 	for(int i=0; i<tempArr.length(); i+=2) {
+	private String[] mixedWords(String[] words,String[] wordArr){
+		String[] tempArr = new String[words.length];
+		for(int i=0; i<tempArr.length(); i+=2) {
 			
-	// 	}
-	// }
+		}
+	}
 
 }
